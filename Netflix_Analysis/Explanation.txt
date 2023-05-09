@@ -1,0 +1,29 @@
+I read the quarterly earnings of Netflix from 2023 quarter 1 to 2012 quarter 4.
+Netflix have taken Financial Year from 1st July to 31st December. 
+So, First quarter end at 31st March, second quarter ends at 31st June, third quarter ends at 30th September 
+and 4th quarter ends at 31st December.
+
+Explaning the netflix.csv:-
+Understanding Regions:
+
+UACN : United States of America and Canada
+EMEA : Europe and Middle East and Africa
+LATM : Latin America
+APAC : Asia-Pacific
+Domestic: United States and Canada
+International: Countries except United States and Canada where netflix is serving
+
+Explaning Attributes:-
+Date is last day of quarter.
+Revenues are in US Dollar.
+RPU : Revenue per paid subsribers(users).
+Members is number of paid subsribers at the end of quarter.
+Free Trialers : number of users with free trial.
+
+Cleaing and formatting Data:
+Downloaded Financial releases of Netflix where users' numbers and Revenue was unit of thousands.
+Multiplied each of the required attributes by 1000 to get actual values in numbers, while doing this I use flash fill.
+
+Collecting Data from Netflix website taken 1/3 rd time of this Netflix project.
+
+
