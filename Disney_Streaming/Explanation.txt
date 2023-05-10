@@ -1,0 +1,11 @@
+For collecting data, I went through Financial Year earnings 2022 to 2019. In Walt Disney, Financial year is from 1st Oct to 30th September.
+collecting data almost taken 50% time.
+
+Explaining disney.csv:-
+All revenues are in million dollars except ARPU.
+Disney+ inlcudes Disney+Hotstar, Disney domestic market, international market.
+ARPU is average revenue per user.
+DTC is Direct to Consumer.
+SVOD : Subscription Video on Demand.
+
+
