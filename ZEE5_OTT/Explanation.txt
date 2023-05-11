@@ -1,0 +1,9 @@
+For collecting data, I gone through quarterly earnings releases of ZEE Media Enterprises.
+collecting data almost taken 50% time.
+
+Explaining zee5.csv:-
+Revenue is intially in Inidan National Ruppee (INR), to convert into US Dollar, I used conversion rate of the 
+report published date.
+
+MAU : Monthly Active Users
+DAU : Daily Active Users
