@@ -1,5 +1,5 @@
 <h3>What is?</h3>
-In this project, I analyzed the OTT Platoforms Disney, Netflix, ZEE5 & Music Platform Spotify based on their revenues and number of users.
+Summary :  I analyzed the OTT Platoforms Disney, Netflix, ZEE5, Video-sharing platform -YouTube & Music Platform Spotify based on their revenues and number of users. Collected performance data like Net Income, Revenue, Userbase etc from the quarterly financial reports of Alphabet (Youtube), Netflix, Spotify.
 
 <h3>What used?</h3>
 1. Pandas
